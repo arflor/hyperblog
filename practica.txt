@@ -2,6 +2,6 @@ este es mi primer archivo practicando git.
 
 soy Andy y estoy aprendiendo los conceptos basicos de programacion.
 
-tengo 24 años y vivo en tegucigalpa.
+estoy tomando el curso de git y github
 
 mi objetivo es cambiar de trabajo para este año.
