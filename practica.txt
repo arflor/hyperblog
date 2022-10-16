@@ -1,6 +1,6 @@
 este es mi primer archivo practicando git.
 
-soy Andy y estoy aprendiendo los conceptos basicos de programacion.
+estoy aprendiendo los conceptos basicos de programacion.
 
 estoy tomando el curso de git y github
 
